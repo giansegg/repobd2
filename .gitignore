@@ -1,0 +1,42 @@
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Testing
+.pytest_cache/
+
+# IDEs and editors
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+
+# Mypy
+.mypy_cache/
+
+# Local database
+*.sqlite3
+
+# Logs
+*.log
+
+# Ignore pipenv/poetry virtual env locations
+.venv/
+/.venv
