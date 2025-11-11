@@ -12,7 +12,7 @@ from typing import Dict, List, Tuple, Any
 import time
 
 # Configuración de rutas
-PROJECT_ROOT = Path(__file__).parent.parent
+PROJECT_ROOT = Path(__file__).parent
 DATA_DIR = PROJECT_ROOT / "data"
 PROCESSED_DIR = DATA_DIR / "processed"
 INDEX_DIR = DATA_DIR / "index"
