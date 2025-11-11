@@ -40,3 +40,6 @@ dist/
 # Ignore pipenv/poetry virtual env locations
 .venv/
 /.venv
+
+# fma dataset folder
+fma_small/
